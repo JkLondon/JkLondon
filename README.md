@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JkLondon
 - 👀 I’m interested in coding, physics, psychology, socionics ><.
-- 🌱 middle golang developer ><
+- 🌱 middle golang developer >< currently working in erigon.tech. Feel free to ask any questions connected to this :)
 - 📫 How to reach me ilya@mikheev.fun; tg : @ilyamkhv
 
 <!---
